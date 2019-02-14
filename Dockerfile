@@ -1,0 +1,5 @@
+#WSO2 AM
+
+FROM wso2/wso2am:2.6.0
+
+EXPOSE 9443 9763
